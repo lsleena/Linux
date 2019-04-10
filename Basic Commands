@@ -1,0 +1,27 @@
+• ls - Lists directory contents.
+• cd - Changes the current directory.
+• pwd - Displays the present working directory.
+• cat - Concatenates and displays files.
+• echo - Displays arguments to the screen.
+• man - Displays the online manual.
+• exit - Exits the shell or your current session.
+• clear - Clears the screen.
+
+ Hidden files begin with a period.
+ — Sometimes called “dot files.”
+ — Hidden files are not displayed by default.
+* —To show hidden files with ls, use ls -a.
+* —Command options can be combined.
+o ls -l -a is the same as ls -la and ls -al
+
+Navigating man pages
+* Enter Move down one line.
+* Space Move down one page.
+* g Move to the top of the page.
+* G Move to the bottom of the page.
+* q Quit.
+
+Replace string in file using vi
+
+:%s/old string/replacement string/g
+:%s/xxx/Computers/g
