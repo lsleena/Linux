@@ -35,3 +35,6 @@ Replace string in file using vi
 • man - Displays the online manual.
 • exit - Exits the shell or your current session.
 • clear - Clears the screen.
+
+Look at the man pages for ls
+ -  man ls
